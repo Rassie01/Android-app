@@ -1,3 +1,1 @@
-# api_server_tester
-
-A new Flutter project.
+When running the app you will see 2 tables that are empty. add a server or api and it will show in the tables. there should be a refresh button that then tells you if a server or api is online or offline
